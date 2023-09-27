@@ -1,0 +1,32 @@
+
+
+.product{
+    display: flex;
+    border-bottom:1px solid lightgray;
+    border-right:1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+
+
+
+}
+
+.text-part{
+  padding-left: 20px;
+}
+
+.product h4{
+
+    color: rgba(77, 77, 239, 0.975);
+    font-weight: 400;
+}
+
+.text-part button {
+
+    background-color: rgba(212, 209, 3, 0.999);
+
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
